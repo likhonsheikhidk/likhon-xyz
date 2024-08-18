@@ -34,4 +34,3 @@ ETH: 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869
 
 <!-- Replace with your GitHub username -->
 ![](https://komarev.com/ghpvc/?username=yourgithubusername&color=blueviolet&style=flat-square&label=Profile+Views)
-```
