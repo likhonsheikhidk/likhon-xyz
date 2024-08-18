@@ -1,20 +1,35 @@
-# Likhon Sheikh | Blockchain Explorer 🔍
+┌───────────────────────────────────────────────┐
+│                                               │
+│   ░█░░ █ █░█ █░█ █▀█ █▄░█   █▀ █░█ █▀▀ █ █░█  │
+│   ░█░░ █ █▀█ █▀█ █▄█ █░▀█   ▄█ █▀█ ██▄ █ █▀█  │
+│                                               │
+└───────────────────────────────────────────────┘
 
-![Blockchain](https://img.shields.io/badge/Blockchain-Explorer-brightgreen?style=flat-square&logo=ethereum)
-![Research](https://img.shields.io/badge/Research-Driven-blue?style=flat-square&logo=research)
+🌐 Web3 Developer | 🚀 Blockchain Explorer | 🇧🇩 Bangladesh
 
-Diving deep into the blockchain world, exploring risky and strategic plays.
+[█████████░░░] Loading Web3 skills...
 
-## Connect
-[![Email](https://img.shields.io/badge/Email-me%40likhon.xyz-red?style=flat-square&logo=gmail)](mailto:me@likhon.xyz)
-[![Telegram](https://img.shields.io/badge/Telegram-likhonsheikh-blue?style=flat-square&logo=telegram)](https://t.me/likhonsheikh)
-[![Website](https://img.shields.io/badge/Website-likhon.xyz-green?style=flat-square&logo=github)](https://likhon.xyz/)
+▓▓▓▓▓ Python   ▓▓▓▓░ React    ▓▓▓░░ Go
+▓▓▓▓░ C++      ▓▓▓░░ PHP      ▓▓▓▓▓ Solidity
 
-## Support
-ETH: `0x3A06322e9F1124F6B2de8F343D4FDce4D1009869`
+┌─────────────────────────────────────────┐
+│ 📡 Exploring the riskiest & strategic    │
+│    blockchain plays                     │
+└─────────────────────────────────────────┘
 
----
+╔═══════════════════╗
+║ Connect with me   ║
+╚═══════════════════╝
+➜ 📧 me@likhon.xyz
+➜ 💬 t.me/likhonsheikh
+➜ 🌐 likhon.xyz
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+╔═══════════════════╗
+║ Support my work   ║
+╚═══════════════════╝
+ETH: 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869
+
+[░░░░░░░░░░] Compiling next-gen blockchain solutions...
+
+<!-- Replace with your GitHub username -->
+![](https://komarev.com/ghpvc/?username=yourgithubusername&color=blueviolet&style=flat-square&label=Profile+Views)
